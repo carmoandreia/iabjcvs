@@ -1,0 +1,1 @@
+export const Card = ({ children }) => <div style={{ border: '1px solid #ccc', borderRadius: '8px', padding: '1rem' }}>{children}</div>;

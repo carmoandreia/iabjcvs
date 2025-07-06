@@ -1,0 +1,1 @@
+export const Textarea = (props) => <textarea style={{ width: '100%', padding: '1rem', fontSize: '1rem' }} {...props}></textarea>;

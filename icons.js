@@ -1,0 +1,1 @@
+export const Sparkles = () => <span>✨</span>; export const Copy = () => <span>📋</span>; export const ShieldCheck = () => <span>🛡️</span>;

@@ -1,0 +1,1 @@
+export const Button = ({ onClick, children, variant }) => <button onClick={onClick} style={{ padding: '0.5rem 1rem', backgroundColor: variant === 'outline' ? '#e0e0e0' : '#007bff', color: '#fff', border: 'none', borderRadius: '4px', marginBottom: '0.5rem' }}>{children}</button>;
